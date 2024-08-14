@@ -1,0 +1,3 @@
+User-agent: *
+Allow: *
+Sitemap: https://live-sportaza.com/sitemap_index.xml
